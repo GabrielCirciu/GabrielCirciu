@@ -1,8 +1,6 @@
-- Yo, I'm Zae
-- Only here because I need to organize
-- Learning the meaning of life
-- CO-LA-BO-RATION
-- Zae#9999 on discord if you need anything
+- Hello!
+- Feel free to look around!
+- Zae#9999 on discord, for further inquiries
 
 <!---
 GabrielCirciu/GabrielCirciu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
