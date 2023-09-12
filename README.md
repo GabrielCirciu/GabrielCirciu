@@ -1,9 +1,7 @@
-Good day,
+Hi,
 
-Please take a moment to explore my profile.
-You will find all kinds of projects, ranging from C# to Python, even using certain render engines and networking infrastructures.
-
-For further inquiries, you can reach me at Zae#7510 on discord, or by e-mail at circiu_gabriel@outlook.com
+I am a Data Science student, passionate about problem solving, data analysis, python, and networking data within the game industry.
+My current projects range from valve's steam networking protocol implementation and packet handling, to projects regarding data analyis and general problem solving events.
 
 All the best,
 Gabriel
