@@ -1,7 +1,12 @@
 Hi,
 
-I am a Data Science student, passionate about problem solving, data analysis, python, and networking data within the game industry.
-My current projects range from valve's steam networking protocol implementation and packet handling, to projects regarding data analyis and general problem solving events.
+I'm a data scientist, with a passion for large scale data analysis, MLOps, data visualization, and networking solutions.
+My last projects were:
+- fraud detection in datasets that were presented as real / organic
+- named entity recognition in latin using an unsupervised language model
+- wind analytics to predict power generated with wind turbines across a large region
+- machine vision model to estimate probabilities of aperson having skin cancer based on skin lesion pictures
+- developing a plugin in minecraft that enhances the difficulty using an exhaustion system
 
 All the best,
 Gabriel
