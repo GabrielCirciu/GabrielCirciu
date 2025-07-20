@@ -8,8 +8,7 @@ My last projects were:
 - machine vision model to estimate probabilities of aperson having skin cancer based on skin lesion pictures
 - developing a plugin in minecraft that enhances the difficulty using an exhaustion system
 
-All the best,
-Gabriel
+Cheers!
 
 <!---
 GabrielCirciu/GabrielCirciu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
